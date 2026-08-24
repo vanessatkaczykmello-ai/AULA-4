@@ -15,7 +15,10 @@
              max-width: 800px;
         margin: 0 auto;
         }
-        
+        img {
+width: 80px;
+height: 80px;
+}
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Programação 1º ano</title>
