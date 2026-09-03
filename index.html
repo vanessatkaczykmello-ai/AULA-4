@@ -39,9 +39,9 @@ height: 200px;
 </main>
 </body>
     <script>
+        botoes.forEach(function (botao) {
 const botoes = document.querySelectorAll("button");
 let curtiu = false;
-botoes.forEach(function (botao) {
 botao.addEventListener("click", botaoClicado);
 
 function botaoClicado() {
